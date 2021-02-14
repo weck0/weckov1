@@ -3,7 +3,7 @@ date: '2018-05-14'
 title: 'PHP Developer'
 company: 'Kurt Keiger'
 location: 'London, United Kingdoms'
-range: 'September 2016 - September 2019'
+range: 'September 2016 - September 2020'
 url: 'https://www.kurtgeiger.com/'
 ---
 
