@@ -18,10 +18,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/florian-ceprika-003a3b8b/',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/weck0',
-    },
   ],
 
   navLinks: [
