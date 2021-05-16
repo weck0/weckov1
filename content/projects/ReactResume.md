@@ -1,12 +1,13 @@
 ---
-date: '2016-08-01'
-title: 'React Profile'
-github: 'https://github.com/bchiang7/react-profile'
-external: 'https://bchiang7.github.io/react-profile/'
+date: '2021-02-01'
+title: 'Portfolio'
+github: 'https://github.com/weck0/weckov1'
+external: 'https://florianceprika.com/'
 tech:
   - React
   - CSS
+  - Gatsby
 showInProjects: true
 ---
 
-Online version of my 2016 resume made for fun. I was interested in learning React.js, so I found a simple tutorial and it spun into a weekend project.
+Online version of my 2021 resume made for fun. I was interested in learning React.js and Gatsby.js so I decided to build my portfolio with these new and trending languages and it was a lot of fun.

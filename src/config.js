@@ -1,18 +1,18 @@
 module.exports = {
-  siteTitle: 'Florian Ceprika | Software Engineer',
+  siteTitle: 'Florian Ceprika',
   siteDescription:
     'Florian Ceprika is a software engineer based in Tokyo, Japan who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Florian Ceprika, Florian, Ceprika, software engineer, front-end engineer, web developer, php developer, magento',
-  siteUrl: 'https://wecko.fr',
+  siteUrl: 'https://florianceprika.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
   name: 'Florian Ceprika',
-  location: 'Tokyo, Japan',
+  location: 'Paris, France',
   email: 'f.ceprika@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  github: '',
+  twitterHandle: '',
   socialMedia: [
     {
       name: 'Linkedin',

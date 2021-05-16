@@ -3,4 +3,4 @@ title: 'Get In Touch'
 buttonText: 'Say Hello'
 ---
 
-I am always open to new opportunities, therefor if you're interested in my profile, please feel free to contact me.
+Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
