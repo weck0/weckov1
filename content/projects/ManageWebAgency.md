@@ -3,7 +3,6 @@ date: '2021-03-01'
 title: 'Managing Web Agency'
 github: ''
 external: ''
-android: ''
 tech:
   - Management
   - AGILE

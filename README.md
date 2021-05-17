@@ -1,5 +1,7 @@
 ## 🛠 Installation & Set Up
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43ad742c-a238-478f-a44d-35ef424394dd/deploy-status)](https://app.netlify.com/sites/heuristic-yonath-80fe3d/deploys)
+
 1. Install the Gatsby CLI
 
    ```sh
