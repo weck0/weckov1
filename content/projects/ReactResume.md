@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Online version of my 2021 resume made for fun. I was interested in learning React.js and Gatsby.js so I decided to build my portfolio with these new and trending languages and it was a lot of fun.
+Online version of my 2021 resume made for fun. I was interested in learning React.js and Gatsby.js so I decided to build my portfolio with these new and trending languages.

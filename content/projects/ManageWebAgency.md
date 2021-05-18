@@ -11,4 +11,4 @@ company: 'CLD'
 showInProjects: true
 ---
 
-I have been gaining more responsibilities with my growing experience in e-commerce. I am managing a Magento 2 web agency which is focused into building the new integrations. I am creating tickets explaining clearly what our needs are then when the work is done I'm responsible to check and deploy the code.
+I have been gaining more responsibilities with my growing experience in e-commerce. I am managing a Magento 2 Web Agency which is focused into building the new integration. I am creating tickets explaining clearly what our needs are then reviewing and approving there work when I condider it done.

@@ -11,5 +11,6 @@ tech:
 showInProjects: true
 ---
 
-My most challenging time as a web developper and the biggest website I have worked on. During my time there I have been involved in practically all the parts of the website. 
-Developed Unit and End to End Automation testing, extracted Magento component to create independent APIs, Migration to Magento 2 and the replacement of the payment module were all my biggest challenges there.
+My most challenging time as a web developper and the biggest website I have worked on.
+During my time there I have been involved in practically all the parts of the website.
+Developed Unit and End to End Automation testing, extracted Magento component to create independent APIs, Migration to Magento 2 and the replacement of the payment module were all part of my daily routine there.
