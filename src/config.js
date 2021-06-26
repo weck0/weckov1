@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Florian Ceprika',
   siteDescription:
-    'Florian Ceprika is a software engineer based in Tokyo, Japan who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Florian Ceprika is a software engineer from France. A digital traveler who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Florian Ceprika, Florian, Ceprika, software engineer, front-end engineer, web developer, php developer, magento',
   siteUrl: 'https://florianceprika.com',
@@ -17,6 +17,10 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/florian-ceprika-003a3b8b/',
+    },
+    {
+      name: 'Blog',
+      url: 'https://florian-ceprika.medium.com/',
     },
   ],
 
