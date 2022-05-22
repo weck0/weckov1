@@ -3,7 +3,7 @@ date: '2021-01-18'
 title: 'Lead Magento Developer'
 company: 'CLD'
 location: 'Full Remote'
-range: 'Jan 2021 - Present'
+range: 'Jan 2021 - Jan 2022'
 url: 'https://www.cld.be/'
 ---
 
