@@ -6,7 +6,7 @@ module.exports = {
     'Florian Ceprika, Florian, Ceprika, software engineer, front-end engineer, web developer, php developer, magento',
   siteUrl: 'https://florianceprika.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'G-SC07T3T66C',
+  googleAnalyticsID: 'G-K5FS7BJNYG',
   googleVerification: '111',
   name: 'Florian Ceprika',
   location: 'Paris, France',
